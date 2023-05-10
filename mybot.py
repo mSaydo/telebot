@@ -3,8 +3,8 @@ from telebot import types
 import requests
 import json
 
-BOT_TOKEN = 'REMOVED'
-GEOAPIFY_API_KEY = 'REMOVED'
+BOT_TOKEN = ''
+GEOAPIFY_API_KEY = ''
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
